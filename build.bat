@@ -1,0 +1,1 @@
+pyinstaller --onefile --hidden-import textual.widgets._tab_pane --name=DefusalSolver main.py
